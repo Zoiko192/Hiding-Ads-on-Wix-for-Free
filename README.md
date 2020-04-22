@@ -45,8 +45,7 @@ Please do the same for `mobile.html`:
 ```
 <html>
   <title>My Wix Site</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta name="viewport" content="width=320, user-scalable=yes"/>
   <body>
   
      <iframe src="https://username.wixsite.com/name" style="    position: fixed;    left: 0px;    top: -51px;    width: 100%;    height: 108%;}">
